@@ -1,0 +1,1199 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ana Torres",
+      "email": "ana.torres@mail.com"
+    },
+    {
+      "id": "2",
+      "name": "Carlos Gómez",
+      "email": "carlos.gomez@mail.com"
+    },
+    {
+      "id": "3",
+      "name": "María López",
+      "email": "maria.lopez@mail.com"
+    },
+    {
+      "id": "4",
+      "name": "Juan Pérez",
+      "email": "juan.perez@mail.com"
+    },
+    {
+      "id": "5",
+      "name": "Laura Martínez",
+      "email": "laura.martinez@mail.com"
+    },
+    {
+      "id": "6",
+      "name": "Pedro Sánchez",
+      "email": "pedro.sanchez@mail.com"
+    },
+    {
+      "id": "7",
+      "name": "Sofía Ramírez",
+      "email": "sofia.ramirez@mail.com"
+    },
+    {
+      "id": "8",
+      "name": "Andrés Morales",
+      "email": "andres.morales@mail.com"
+    },
+    {
+      "id": "9",
+      "name": "Valentina Cruz",
+      "email": "valentina.cruz@mail.com"
+    },
+    {
+      "id": "10",
+      "name": "Diego Herrera",
+      "email": "diego.herrera@mail.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "userId": 1,
+      "title": "Introducción a las API",
+      "body": "Conceptos básicos sobre APIs y su importancia."
+    },
+    {
+      "id": "2",
+      "userId": 2,
+      "title": "HTTP y la web",
+      "body": "Cómo funciona el protocolo HTTP."
+    },
+    {
+      "id": "3",
+      "userId": 3,
+      "title": "Arquitectura cliente-servidor",
+      "body": "Modelo de comunicación en aplicaciones web."
+    },
+    {
+      "id": "4",
+      "userId": 4,
+      "title": "Método GET",
+      "body": "Uso del método GET para consultar información."
+    },
+    {
+      "id": "5",
+      "userId": 5,
+      "title": "Método POST",
+      "body": "Creación de recursos mediante POST."
+    },
+    {
+      "id": "6",
+      "userId": 6,
+      "title": "Método PUT",
+      "body": "Actualización completa de recursos."
+    },
+    {
+      "id": "7",
+      "userId": 7,
+      "title": "Método PATCH",
+      "body": "Actualización parcial de información."
+    },
+    {
+      "id": "8",
+      "userId": 8,
+      "title": "Método DELETE",
+      "body": "Eliminación de recursos en una API."
+    },
+    {
+      "id": "9",
+      "userId": 9,
+      "title": "Códigos de estado",
+      "body": "Interpretación de respuestas HTTP."
+    },
+    {
+      "id": "10",
+      "userId": 10,
+      "title": "Buenas prácticas API",
+      "body": "Recomendaciones para diseñar APIs REST."
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "qEh5CRLo9XY"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "y6C99O4SBaw"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "7rbi_UdiIsQ"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "SKdGABabQJY"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "32MqSa7X_Kc"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "kH6Up-qYzsc"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "nlTMDfK4q_c"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "drHHeCdHuSQ"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "m8GGn1h39e4"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "I-q6_xPsvh8"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "NxfvEoKlRBU"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "GxxYKEmRR6g"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "qrkC7Bmlxbw"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "3O4ARLJyKO4"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "ss6YSm2nTJI"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "DCOq0aiGMzs"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "ufyiUFY_uoM"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "8n7DbI9eUfs"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "YoIFoA4TrLg"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "QzAg1N1Xpuk"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "cyJ-gR0Xygk"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "_Bt_fLkVdRQ"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "_0VuQ1Er-zc"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "GNNXBa7u45s"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "1CIpB2meUeM"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "sGSz4dTikLw"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "KlIqs48y08Q"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "JLWxFQ9Mn6I"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "ORjMDPamPZA"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "yu2cUZrfBbM"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "OCahQUoq_Zk"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "4zm1AqFqhSI"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "kCRBFTx7oTo"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "w909ozM1y2g"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "fHaSBDLgVWM"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "Uzq5V1GcALE"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "qibfbEha9l4"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "JsysOugTMKw"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "PrOOIYRsH7E"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "buWkZuynSOg"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "tWw_32DFd5U"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "iwByU4VBDxI"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "OTxYAOEMQZE"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "0LQ1ivP_iPM"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "K_n1tnoe84M"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "r3DNxsoLbzc"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "J8aj-CVa9eA"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "bKagSH_lJHo"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "x_X2a1GUcis"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "vry9ZiTs_qo"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "fjblmil0TMs"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "1-FcmNxLSuk"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "Fb8GCXP88X0"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "bqR5-lF5F20"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "4H_BWn4x3rs"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "gMOmgueOYf8"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "dD84b0jwWIs"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "AUayvPoGtgg"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "tx-7S6niylo"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "o4Ak8m73p-Q"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "lHjoaOieL3Y"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "t-BzkblK3oY"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "UMQneActV9c"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "gv-EqZWKpiU"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "_9YQZe8nJ1A"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "T5oFER4hADo"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "bUyXw1oeA0A"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "W0I85wmN-qw"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "QR-eIFa-RrI"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "gd99Qt-iqRI"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "IRJ4nCjxWWY"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "ZaQ5qtL4VT8"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "5SPl9DzOn6M"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "Mp7bu9wVoNQ"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "YnkiaqrUfwM"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "eoKcK-hw_8Q"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "1K4vmmQVCYw"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "xjIcF_mPgr0"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "g2dTf8Vc0Nk"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "xE-81Pv-IAY"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "dUT5e_tZ5mE"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "9w4gklGN50s"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "-RPQJgNadtw"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "dWRbSvTu0bw"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "dkucO50GWaw"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "c6qcYIDrjBc"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "SVZ4k7hQWSQ"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "tKerjkH-6cg"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "Zvgb2Q5IfDg"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "ASS5VT4kEzs"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "lIUhqQk_WsU"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "4KOM2K7KYzs"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "E30W6s0W7jo"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "Rn_iKgP_F7w"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "q2mvciCnygg"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "BJF91TwV1Vk"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "SDmrGCrP0OM"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "a1oXVpmPtHI"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "3GHBVpeom44"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "XumIXgmGiu0"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "uI172UyKOdI"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "xik1eS_ogyg"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "KChhPDw87Cg"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "sMeLNGDSNEQ"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "jfSU_irPU-Q"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "xhLny7iY4U4"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "SzTFUvdKYyw"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "pmyftEktel0"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "VYyYcjdmjMw"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "1G-dsuxy3Jg"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "NcCj15Q9vZY"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "7fJh622SoSI"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "eDkZvFKIR1o"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "6x8SLjU7BHU"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "EV_jnFVjStg"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "9HaFPK0M-x8"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "SL7bVoMrqBo"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "LsWDRd7x1no"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "N1QQvpeA31g"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "FjHXI2IUZLw"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "nMlCShbbdjw"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "u0NxQArkXSU"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "o15YKHGj3j0"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "p_0Me0yzock"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "5kfNCGIJtow"
+    },
+    {
+      "userId": 5,
+      "title": "ADSO",
+      "body": "Fundamentacion Apis",
+      "id": "cnY3XnTcl30"
+    },
+    {
+      "userId": null,
+      "title": null,
+      "body": null,
+      "id": "q-n0XDegzRM"
+    },
+    {
+      "userId": "78",
+      "title": "esta muy lejos",
+      "body": "hola",
+      "id": "FUCVhuQKF_E"
+    },
+    {
+      "userId": "52",
+      "title": "holamundo",
+      "body": "hola mundo como estas",
+      "id": "1pDfXZJJ8P4"
+    },
+    {
+      "userId": null,
+      "title": null,
+      "body": null,
+      "id": "-f_6kndKKKM"
+    },
+    {
+      "userId": null,
+      "title": null,
+      "body": null,
+      "id": "cRUu9kLneA4"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "name": "Comentario 1",
+      "body": "Muy clara la explicación."
+    },
+    {
+      "id": "2",
+      "postId": 1,
+      "name": "Comentario 2",
+      "body": "Buen contenido introductorio."
+    },
+    {
+      "id": "3",
+      "postId": 2,
+      "name": "Comentario 3",
+      "body": "Ayuda a entender HTTP."
+    },
+    {
+      "id": "4",
+      "postId": 3,
+      "name": "Comentario 4",
+      "body": "Buen ejemplo de arquitectura."
+    },
+    {
+      "id": "5",
+      "postId": 4,
+      "name": "Comentario 5",
+      "body": "GET es muy usado en la práctica."
+    },
+    {
+      "id": "6",
+      "postId": 5,
+      "name": "Comentario 6",
+      "body": "POST permite enviar datos."
+    },
+    {
+      "id": "7",
+      "postId": 6,
+      "name": "Comentario 7",
+      "body": "PUT reemplaza la información."
+    },
+    {
+      "id": "8",
+      "postId": 7,
+      "name": "Comentario 8",
+      "body": "PATCH es más eficiente."
+    },
+    {
+      "id": "9",
+      "postId": 8,
+      "name": "Comentario 9",
+      "body": "DELETE debe usarse con cuidado."
+    },
+    {
+      "id": "10",
+      "postId": 9,
+      "name": "Comentario 10",
+      "body": "Los códigos HTTP son importantes."
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "dU8fhb19xBU"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "s3jYnWepW60"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "tQ2g_HTT3J4"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "mpBkRF_0LWQ"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "0BUX_768rTo"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "S4Aa8LxWwVw"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "te3CJCPjR4c"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "HENqamqc0WA"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "z-nlwGv6Hv4"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "xiSiN5i1huI"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "SGH0nGNARr4"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "wUYwFlhsIoM"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "7IztjFNuBvM"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "S5OluGWlJRw"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "Q3OK9FP-0es"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "4LcvqEzT1_U"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "TyKddpnzbvk"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "6Mli9z5V-JI"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "JOXzyYdf9DU"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "PiftneIBIL8"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "rWy8lOL_uc0"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "xqqGVY91FLk"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "9hz55Jz8OhM"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "iR2brrUYCW8"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "vGQNYgYg3wQ"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "G7C7kwTO8Nc"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "OIx-EFd9EaQ"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "I2OvKs23REY"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "7VfgZ0FCQ8s"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "2hHRgwnXAuY"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "bgscFO8z-_w"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "pAlg9c8O5pI"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "nwQjdKBlRfk"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "vd9YMu98LOs"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "FOlcpgNom5o"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "K62rzJhaL9I"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "mXwQL-qtAq8"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "vBslBYePJyQ"
+    },
+    {
+      "postId": 5,
+      "name": "Aprendiendo",
+      "body": "estoy aprendiendo muy poco,no me enseñan nada",
+      "id": "9aW4wVjosFo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
